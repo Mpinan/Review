@@ -16,3 +16,10 @@ Green           Green: 1
 Yellow          Yellow: 1
 Green, Green    Green: 2
 Green, Yellow   Green: 1, Yellow: 1
+
+"Green,Green,Green,Amber,Red,Red,Amber,Green"
+
+Output 
+"Green: 4
+Amber: 2
+Red: 2"
