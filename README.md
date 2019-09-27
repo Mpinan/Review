@@ -11,7 +11,7 @@ return the color with the number of students
 how many of each are in the string
 
 Input           Output
-
+Green           Green
 Green           Green: 1
 Yellow          Yellow: 1
 Green, Green    Green: 2
