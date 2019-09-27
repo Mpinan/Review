@@ -1,5 +1,5 @@
-def school_report
-  color = "Green"
+def school_report(color)
+  
   length = color.split.length
-  color + ": " + length.to_s
+  "#{color}: #{length}"
 end
